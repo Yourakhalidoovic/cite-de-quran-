@@ -1,0 +1,23 @@
+.navigation {
+  outline: none;
+  border: 1px none rgb(250, 244, 244);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+}
+.navigation ul {
+  display: flex;
+  outline: none;
+  background-color: rgb(161, 161, 231);
+  padding: 10px;
+  border-radius: 10px;
+
+  flex-direction: row;
+  justify-content: space-between;
+}
+.navigation li {
+  list-style: none;
+}
+.navigation a {
+  text-decoration: none;
+  color: white;
+}

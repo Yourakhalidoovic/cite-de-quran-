@@ -1,0 +1,24 @@
+.surah-page {
+  background-color: rgb(55, 60, 66);
+}
+.ayah {
+  background-color: rgb(99, 93, 93);
+  color: rgb(75, 73, 73);
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.name {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+  font-size: 30px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}

@@ -1,0 +1,7 @@
+.list-of-sourates {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  padding: 30px;
+  gap: 20px;
+  
+}
